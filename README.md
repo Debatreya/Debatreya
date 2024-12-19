@@ -66,8 +66,24 @@
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
 
 ## Github Stats  
- 
-![Debatreya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Debatreya&theme=vue-dark&hide_border=true)
+<!-- ![Debatreya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Debatreya&theme=vue-dark&hide_border=true) -->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Debatreya&style=flat-square" align="center" />
+</div>  
+<br>
+<br>
+<p align="center">
+    <a><img alt="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Debatreya&theme=tokyonight" /></a>
+
+  <br>
+
+  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Debatreya&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debatreya&hide_border=true&layout=compact&theme=tokyonight" align="center" /></div>  
+
+<br/>  
+
 
 
 ## Connections:  
